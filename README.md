@@ -2,8 +2,8 @@
 # README
 # THP_S4_D3_DOCTORS
 ### App rails de The Hacking Pinterest <br/>
-Welcome on board mousaillon :) <br\>
-This is the first step of our day the "Plateforme de réservation de docteurs" <br\>
+Welcome on board mousaillon :) <br/>
+This is the first step of our day the "Plateforme de réservation de docteurs" <br/>
 For the next step, the "Pimp des docteurs" go to "https://github.com/FabriceS69/FabriceS69-THP_S4_D4_PIMP" to check it :)
 ### Ruby & Rails needed :
 
