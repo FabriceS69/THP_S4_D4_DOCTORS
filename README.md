@@ -10,7 +10,11 @@ For the next step, the "Pimp des docteurs" go to "https://github.com/FabriceS69/
 
 ### Please check to use :
 
-$ bundle install
+### Please check to test :
+
+$ bundle install <br/>
+$ rails db:migrate <br/>
+$ rails db:seed
 
 ### Tables created with ActiveRecord
 ```
