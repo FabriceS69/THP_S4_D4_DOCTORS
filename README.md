@@ -1,4 +1,3 @@
-# README
 # THP_S4_D4_DOCTOR
 ### App rails de "la Plateforme de réservations de docteurs" <br/>
 Welcome on board mousaillon :) <br/>
